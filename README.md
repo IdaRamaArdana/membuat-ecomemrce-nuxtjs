@@ -1,10 +1,10 @@
-# Nuxt 3 Minimal Starter
+# Nuxt 3 Tutor
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
 ## Setup
 
-Make sure to install the dependencies:
+Pertama install dependencies terlebih dahulu:
 
 ```bash
 # npm
@@ -22,7 +22,7 @@ bun install
 
 ## Development Server
 
-Start the development server on `http://localhost:3000`:
+Mulai nyalakan host piranti untuk menautkan ke Server `http://localhost:3000` atau `http://localhost:3001`:
 
 ```bash
 # npm
