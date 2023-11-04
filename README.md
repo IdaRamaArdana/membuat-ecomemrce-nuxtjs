@@ -1,6 +1,6 @@
 # Nuxt 3 Tutor
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+[Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction)
 
 ## Setup
 
@@ -40,7 +40,7 @@ bun run dev
 
 ## Production
 
-Build the application for production:
+Membuild aplikasi untuk produksi:
 
 ```bash
 # npm
@@ -56,7 +56,7 @@ yarn build
 bun run build
 ```
 
-Locally preview production build:
+Mempreview secara lokal build tadi:
 
 ```bash
 # npm
